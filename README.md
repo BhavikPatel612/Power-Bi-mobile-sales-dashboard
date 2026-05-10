@@ -1,9 +1,10 @@
 # Power-Bi-mobile-sales-dashboard
 **Mobile Sales Dashboard Project**
 **STAR Method Explanation**
+
 **S – Situation**
 
-– Mobile companies generate large amounts of sales data, making it difficult to track sales performance, customer behavior, and yearly growth manually.
+- Mobile companies generate large amounts of sales data, making it difficult to track sales performance, customer behavior, and yearly growth manually.
 
 **T – Task**
 
